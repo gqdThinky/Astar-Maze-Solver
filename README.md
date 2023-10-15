@@ -13,7 +13,7 @@ A* Maze Solver is a Python application that uses the A* algorithm to find the sh
 
     Usage:
         Place your maze image named maze.png in the same directory as the script.
-        Run the maze_solver.py script using Python.
+        Run the pathfinder.py script using Python.
         Click on the "Save" button to save the solution path as maze_path.png.
 
 # Getting Started
