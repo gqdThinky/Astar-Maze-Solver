@@ -4,12 +4,12 @@ A* Maze Solver is a Python application that uses the A* algorithm to find the sh
 # Features
     A Algorithm:* Utilizes the A* algorithm to find the shortest path from the entrance to the exit of the maze.
     Interactive Interface: The program provides an interactive interface where you can visualize the maze solving process and save the solution as an image.
-    User-Friendly: Simple user interface allowing users to load their maze images and visualize the algorithm in action.
+    User-Friendly: Simple user-experience allowing users to load their maze images and visualize the algorithm in action.
 
 # How to Use
     Requirements:
         Python 3.x
-        Required Python packages: pygame, heapq (install using pip install pygame heapq)
+        Required Python packages: pygame, heapq, os (install using pip install pygame heapq os)
 
     Usage:
         Place your maze image named maze.png in the same directory as the script.
@@ -21,3 +21,5 @@ To get started with the A* Maze Solver, clone this repository to your local mach
 
 # License
 This project is licensed under the GNU Affero General Public License v3.0 - see the LICENSE file for details.
+
+## Created by gqdThinky.
