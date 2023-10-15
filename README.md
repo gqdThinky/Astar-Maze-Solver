@@ -22,4 +22,4 @@ To get started with the A* Maze Solver, clone this repository to your local mach
 # License
 This project is licensed under the GNU Affero General Public License v3.0 - see the LICENSE file for details.
 
-## Created by gqdThinky.
+### Created by gqdThinky.
